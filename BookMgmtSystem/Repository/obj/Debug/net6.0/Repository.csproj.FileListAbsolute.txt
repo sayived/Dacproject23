@@ -1,0 +1,15 @@
+E:\DipaliKnowitProjects\BookMgmtSystem\Repository\bin\Debug\net6.0\Repository.deps.json
+E:\DipaliKnowitProjects\BookMgmtSystem\Repository\bin\Debug\net6.0\Repository.dll
+E:\DipaliKnowitProjects\BookMgmtSystem\Repository\bin\Debug\net6.0\Repository.pdb
+E:\DipaliKnowitProjects\BookMgmtSystem\Repository\bin\Debug\net6.0\Entities.dll
+E:\DipaliKnowitProjects\BookMgmtSystem\Repository\bin\Debug\net6.0\Entities.pdb
+E:\DipaliKnowitProjects\BookMgmtSystem\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+E:\DipaliKnowitProjects\BookMgmtSystem\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\DipaliKnowitProjects\BookMgmtSystem\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+E:\DipaliKnowitProjects\BookMgmtSystem\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+E:\DipaliKnowitProjects\BookMgmtSystem\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+E:\DipaliKnowitProjects\BookMgmtSystem\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+E:\DipaliKnowitProjects\BookMgmtSystem\Repository\obj\Debug\net6.0\Repository.dll
+E:\DipaliKnowitProjects\BookMgmtSystem\Repository\obj\Debug\net6.0\refint\Repository.dll
+E:\DipaliKnowitProjects\BookMgmtSystem\Repository\obj\Debug\net6.0\Repository.pdb
+E:\DipaliKnowitProjects\BookMgmtSystem\Repository\obj\Debug\net6.0\ref\Repository.dll

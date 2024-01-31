@@ -1,0 +1,17 @@
+E:\DipaliKnowitProjects\BookMgmtSystem\DAL\bin\Debug\net6.0\DAL.deps.json
+E:\DipaliKnowitProjects\BookMgmtSystem\DAL\bin\Debug\net6.0\DAL.dll
+E:\DipaliKnowitProjects\BookMgmtSystem\DAL\bin\Debug\net6.0\DAL.pdb
+E:\DipaliKnowitProjects\BookMgmtSystem\DAL\bin\Debug\net6.0\Entities.dll
+E:\DipaliKnowitProjects\BookMgmtSystem\DAL\bin\Debug\net6.0\Repository.dll
+E:\DipaliKnowitProjects\BookMgmtSystem\DAL\bin\Debug\net6.0\Entities.pdb
+E:\DipaliKnowitProjects\BookMgmtSystem\DAL\bin\Debug\net6.0\Repository.pdb
+E:\DipaliKnowitProjects\BookMgmtSystem\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+E:\DipaliKnowitProjects\BookMgmtSystem\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\DipaliKnowitProjects\BookMgmtSystem\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+E:\DipaliKnowitProjects\BookMgmtSystem\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+E:\DipaliKnowitProjects\BookMgmtSystem\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+E:\DipaliKnowitProjects\BookMgmtSystem\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+E:\DipaliKnowitProjects\BookMgmtSystem\DAL\obj\Debug\net6.0\DAL.dll
+E:\DipaliKnowitProjects\BookMgmtSystem\DAL\obj\Debug\net6.0\refint\DAL.dll
+E:\DipaliKnowitProjects\BookMgmtSystem\DAL\obj\Debug\net6.0\DAL.pdb
+E:\DipaliKnowitProjects\BookMgmtSystem\DAL\obj\Debug\net6.0\ref\DAL.dll

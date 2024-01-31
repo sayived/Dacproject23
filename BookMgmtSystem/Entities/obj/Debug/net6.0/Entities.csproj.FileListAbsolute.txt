@@ -1,0 +1,12 @@
+E:\DipaliKnowitProjects\BookMgmtSystem\Entities\bin\Debug\net6.0\Entities.deps.json
+E:\DipaliKnowitProjects\BookMgmtSystem\Entities\bin\Debug\net6.0\Entities.dll
+E:\DipaliKnowitProjects\BookMgmtSystem\Entities\bin\Debug\net6.0\Entities.pdb
+E:\DipaliKnowitProjects\BookMgmtSystem\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+E:\DipaliKnowitProjects\BookMgmtSystem\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\DipaliKnowitProjects\BookMgmtSystem\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+E:\DipaliKnowitProjects\BookMgmtSystem\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+E:\DipaliKnowitProjects\BookMgmtSystem\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+E:\DipaliKnowitProjects\BookMgmtSystem\Entities\obj\Debug\net6.0\Entities.dll
+E:\DipaliKnowitProjects\BookMgmtSystem\Entities\obj\Debug\net6.0\refint\Entities.dll
+E:\DipaliKnowitProjects\BookMgmtSystem\Entities\obj\Debug\net6.0\Entities.pdb
+E:\DipaliKnowitProjects\BookMgmtSystem\Entities\obj\Debug\net6.0\ref\Entities.dll
